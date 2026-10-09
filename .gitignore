@@ -1,0 +1,11 @@
+# Local runtime and installation files
+.agents/
+.codex/
+node_modules/
+skills-lock.json
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
